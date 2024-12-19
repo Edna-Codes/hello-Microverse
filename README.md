@@ -20,8 +20,6 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Hello Microverse** is a project implementing proper documentation, setting up linters and github workflow
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -49,8 +47,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Linters setup**
 - **Professional Documentation**
 - **Github flow**
@@ -58,8 +54,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -82,8 +76,6 @@ cd hello-Microverse
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Edna Codes**
 
 - GitHub: [@Edna Codes](https://github.com/githubhandle)
@@ -92,17 +84,13 @@ cd hello-Microverse
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please leave a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Shaquile Ndunda
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

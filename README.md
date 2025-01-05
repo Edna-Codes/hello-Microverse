@@ -110,7 +110,7 @@ To run the project, open live server on your code editor
 
 👤 **Edna Codes**
 
-- GitHub: [@Edna Codes](https://github.com/githubhandle)
+- GitHub: [@Edna-Codes](https://github.com/githubhandle)
 - Twitter: [@Edna Guantai](https://twitter.com/twitterhandle)
 - LinkedIn: [Edna Guantai](https://linkedin.com/in/linkedinhandle)
 

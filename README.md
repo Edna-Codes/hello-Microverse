@@ -35,7 +35,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="hhttps://html.com/">HTML</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
@@ -118,7 +118,7 @@ To run the project, open live server on your code editor
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please leave a star
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

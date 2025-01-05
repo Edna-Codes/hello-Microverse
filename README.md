@@ -83,6 +83,11 @@ git clone https://github.com/Edna-Codes/hello-Microverse
 ```
 
 - Once the files are on your machine, open the **hello-Microverse** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+- Get in to the cloned directory/repository:
+
+```
+cd hello-Microverse
+```
 
 ### Install
 

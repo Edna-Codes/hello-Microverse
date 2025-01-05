@@ -1,8 +1,15 @@
-<div align="center">
+<a name="readme-top"></a>
 
-  <h3><b>Hello Microverse</b></h3>
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
 
 </div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -10,15 +17,27 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello Microverse <a name="about-project"></a>
+
+> Describe your project in 1 or 2 sentences.
 
 **Hello Microverse** is a project implementing proper documentation, setting up linters and github workflow
 
@@ -26,49 +45,83 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html.com/">
-    HTML
-    </a></li>
-   
+    <li><a href="hhttps://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Styling</summary>
   <ul>
-     <li><a href="https://web.dev/learn/css">
-    CSS
-    </a></li>
+    <li><a href="https://web.dev/learn/css">CSS</a></li>
   </ul>
 </details>
 
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-- **Linters setup**
-- **Professional Documentation**
+> Describe between 1-3 key features of the application.
+
+- **Linter setup**
 - **Github flow**
+- **Proper Documentation**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-Go live
+
+- A web browser (e.g. Mozilla Firefox, Google Chrome etc.)
+- git: This is a version control system used for source code management.
+- A text editor (e.g Visual Studio Code (recommended), Sublime Text, Atom etc.)
+- Live Server: A web extension utility for Visual Studio Code that helps you live reload feature for dynamic pages.
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
-Clone this repository to your desired folder:
+- With git, clone the code to your machine.
+- Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
-git clone git@github.com:Edna-Codes/hello-Microverse.git
+```
+git clone https://github.com/Edna-Codes/hello-Microverse
 
-cd hello-Microverse
+```
+
+- Once the files are on your machine, open the **hello-Microverse** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+
+### Install
+
+Install required dependancies with:
+
+```
+  npm install
+
+```
+
+### Usage
+
+To run the project, open live server on your code editor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
